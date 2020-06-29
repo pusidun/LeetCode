@@ -21,7 +21,7 @@
 | 用户                                              | 天数    | 进度 |
 | ------------------------------------------------- | ------- | ---- |
 | [realzhaijiayu](https://github.com/realzhaijiayu) | :heart: | 1/30 |
-| 用户1                                             |         |      |
+| [Swetchine](https://github.com/Swetchine)         | :heart: | 1/30 |
 | 用户2                                             |         |      |
 | 用户3                                             |         |      |
 
