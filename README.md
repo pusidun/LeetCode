@@ -20,6 +20,6 @@
 | ------------------------------------------------- | --------------- | ---- |
 | [realzhaijiayu](https://github.com/realzhaijiayu) | :heart: :heart: | 2/30 |
 | [Swetchine](https://github.com/Swetchine)         | :heart:         | 1/30 |
-| [howfars](https://github.com/howfars)             | :heart:         | 1/30 |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars)             | :heart:         | 1/30 |
 | 用户3                                             |                 |      |
 
