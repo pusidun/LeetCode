@@ -5,7 +5,7 @@
 
 ## 活动须知
 
-- 参加活动的同学fork仓库后，在根目录下创建自己的工作目录，目录下面的内容可以自定义（但是注意不要将大量的图片放进去导致仓库体积太过大，影响拉取）
+- 参加活动的同学fork仓库后，在根目录下创建自己的工作目录，目录下面的内容可以自定义（但是注意不要将大量的图片放进去导致仓库体积过大，影响拉取）
 - 提交PR前需要**先pull**，消除冲突后，再提交，提交数量每天1~2次
 - 所有 **commit** 请命名为 **GitHubID_day_X**
 - :heart: 代表一天，:star: 代表5天，:sunny: 代表10天。**每次提交代码需要自行修改README**
@@ -16,10 +16,11 @@
 
 > 排名只代表参加活动的先后次序
 
-| 用户                                              | 天数            | 进度 |
-| ------------------------------------------------- | --------------- | ---- |
-| [realzhaijiayu](https://github.com/realzhaijiayu) | :heart: :heart: | 2/30 |
-| [Swetchine](https://github.com/Swetchine)         | :heart:         | 1/30 |
-| [howfars](https://github.com/howfars/leetcode/tree/master/howfars)             | :heart:         | 1/30 |
-| 用户3                                             |                 |      |
-
+| 用户                                                         | 天数                    | 进度 |
+| ------------------------------------------------------------ | ----------------------- | ---- |
+| [realzhaijiayu](https://github.com/realzhaijiayu)            | :heart: :heart: :heart: | 3/30 |
+| [Swetchine](https://github.com/Swetchine)                    | :heart: :heart:         | 2/30 |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :heart::heart:          | 2/30 |
+| [pusidun](https://github.com/pusidun)                        | :heart:                 | 1/30 |
+| 用户2                                                        |                         |      |
+| 用户3                                                        |                         |      |
