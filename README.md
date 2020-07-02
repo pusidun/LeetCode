@@ -5,21 +5,23 @@
 
 ## 活动须知
 
-- 参加活动的同学fork仓库后，在根目录下创建自己的工作目录，目录下面的内容可以自定义（但是注意不要将大量的图片放进去导致仓库体积太过大，影响拉取）
-- 提交PR前需要**先pull**，消除冲突后，再提交，提交数量每天1~2次
-- 所有 **commit** 请命名为 **GitHubID_day_X**
-- :heart: 代表一天，:star: 代表5天，:sunny: 代表10天。**每次提交代码需要自行修改README**
-- 打卡天数上限根据进度在未来会进行调整(30 -> 50 -> 80 -> 100 -> ...)
-- **如果超过一个星期未打卡，进度表上的成绩将会清零并除名！**(结算时间为星期日)
+- 参加活动的同学先fork仓库，然后在根目录下创建自己的工作目录，工作目录下面的格式可以参照 [howfars](https://github.com/realzhaijiayu/leetcode/tree/master/howfars) 同学进行设计
+- 提交Pull request之前需要先消除冲突，数量限制在每天1~2次
+- :heart: 代表一天，:star: 代表5天，:star2:代表20天，:sunny: 代表60天（**每次提交代码前请给自己点亮一颗充满希望的:heart:** ）
+- **超过一个星期未打卡，作为惩罚，进度表上的成绩将会清零并除名！(每周日进行结算)**
+- 根据进度，打卡天数上限在未来会进行调整(30 -> 50 -> 80 -> 100 -> ...)
+- 欢迎大家积极参加活动！如果你有什么更好的想法，也可以来我们的[电报群](https://t.me/joinchat/QeUx1htKgae3oBiJQ0EncQ)进行交流！:kissing_heart:
 
 ## 进度表
 
 > 排名只代表参加活动的先后次序
 
-| 用户                                              | 天数            | 进度 |
-| ------------------------------------------------- | --------------- | ---- |
-| [realzhaijiayu](https://github.com/realzhaijiayu) | :heart: :heart: | 2/30 |
-| [Swetchine](https://github.com/Swetchine)         | :heart:         | 1/30 |
-| 用户2                                             |                 |      |
-| 用户3                                             |                 |      |
 
+| 用户                                                         | 天数                    | 进度 |
+| ------------------------------------------------------------ | ----------------------- | ---- |
+| [realzhaijiayu](https://github.com/realzhaijiayu)            | :heart: :heart: :heart: :heart: | 4/30 |
+| [Swetchine](https://github.com/Swetchine)                    | :heart: :heart: :heart: | 3/30 |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :heart: :heart:         | 2/30 |
+| [pusidun](https://github.com/pusidun)             | :heart: :heart:       | 2/30 |
+| 用户2                                                        |                         |      |
+| 用户3                                                        |                         |      |
