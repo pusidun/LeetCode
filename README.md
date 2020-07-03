@@ -21,7 +21,7 @@
 | ------------------------------------------------------------ | ----------------------- | ---- |
 | [realzhaijiayu](https://github.com/realzhaijiayu)            | :heart: :heart: :heart: :heart: | 4/30 |
 | [Swetchine](https://github.com/Swetchine)                    | :heart: :heart: :heart: :heart:| 4/30 |
-| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :heart: :heart::heart:  | 3/30 |
-| [pusidun](https://github.com/pusidun)             | :heart: :heart:       | 2/30 |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :heart: :heart::heart::heart: | 4/30 |
+| [pusidun](https://github.com/pusidun)             | :heart: :heart:  :heart:     | 3/30 |
 | 用户2                                                        |                         |      |
 | 用户3                                                        |                         |      |
