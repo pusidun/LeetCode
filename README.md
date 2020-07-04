@@ -23,5 +23,5 @@
 | [Swetchine](https://github.com/Swetchine)                    | :heart: :heart: :heart: :heart:| 4/30 |
 | [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :heart: :heart::heart: :heart: | 4/30 |
 | [pusidun](https://github.com/pusidun)             | :heart: :heart:  :heart:     | 3/30 |
-| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           |      :heart:  |   1/30   |
+| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :heart::heart: |   2/30   |
 | 用户3                                                        |                         |      |
