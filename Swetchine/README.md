@@ -14,6 +14,6 @@
 | 2020/07/02 | [378. 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [[leetcode]378. 有序矩阵中第K小的元素](https://www.cnblogs.com/Swetchine/p/13223997.html) |
 | 2020/07/04 | [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [[leetcode]32. 最长有效括号](https://www.cnblogs.com/Swetchine/p/13236464.html) |
 | 2020/07/05 | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [[leetcode]32. 最长有效括号](https://www.cnblogs.com/Swetchine/p/13252762.html) |
-| 2020/07/06 | [63. 通配符匹配](https://leetcode-cn.com/problems/unique-paths-ii/) | [[leetcode]63. 不同路径 II](https://www.cnblogs.com/Swetchine/p/12670647.html) |
+| 2020/07/06 | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | [[leetcode]63. 不同路径 II](https://www.cnblogs.com/Swetchine/p/12670647.html) |
 
 </div>
