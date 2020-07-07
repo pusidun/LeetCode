@@ -7,4 +7,5 @@
 | 2020.07.03 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | https://www.cnblogs.com/realzhaijiayu/p/13232943.html |
 | 2020.07.04 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | https://www.cnblogs.com/realzhaijiayu/p/13236867.html |
 | 2020.07.05 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | https://www.cnblogs.com/realzhaijiayu/p/13252250.html |
+| 2020.07.07 | [路径总和](https://leetcode-cn.com/problems/path-sum/)       | https://www.cnblogs.com/realzhaijiayu/p/13263166.html |
 
