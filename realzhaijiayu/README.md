@@ -8,4 +8,5 @@
 | 2020.07.04 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | https://www.cnblogs.com/realzhaijiayu/p/13236867.html |
 | 2020.07.05 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | https://www.cnblogs.com/realzhaijiayu/p/13252250.html |
 | 2020.07.07 | [路径总和](https://leetcode-cn.com/problems/path-sum/)       | https://www.cnblogs.com/realzhaijiayu/p/13263166.html |
+| 2020.07.08 | [跳水板](https://leetcode-cn.com/problems/diving-board-lcci/) | https://www.cnblogs.com/realzhaijiayu/p/13269403.html |
 
