@@ -4,8 +4,5 @@
 
 |   日期    |                             题目                             |                             笔记                             |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-<<<<<<< HEAD
-|  | |  |
-=======
 | 2020/7/7 | [112. 路径总和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/path-sum/) | [112.路径总和-笔记](https://www.cnblogs.com/BoysCryToo/p/13260173.html) |
->>>>>>> 2f83ac5983c92a2bc0edb7a7bfadbb0cb10b1525
+| 2020/7/8 | [面试题 16.11. 跳水板 - 力扣（LeetCode）](https://leetcode-cn.com/problems/diving-board-lcci/) | [面试题16.11.跳水板-笔记](https://www.cnblogs.com/BoysCryToo/p/13265335.html) |
