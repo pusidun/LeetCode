@@ -25,6 +25,6 @@
 | [Swetchine](https://github.com/Swetchine)                    | :star::heart::heart::heart: | 8/30 |
 | [pusidun](https://github.com/pusidun)             | :star:     | 5/30 |
 | [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star: |   5/30   |
-| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :heart::heart: |   2/30   |
+| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :heart::heart::heart: |   3/30   |
 | 用户3                                                        |                         |      |
 
