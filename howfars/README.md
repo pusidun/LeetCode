@@ -2,7 +2,7 @@
     刷题记录
 </h1>
 
-|   日期    |                             题目                             |                             笔记                             |                             #                             |
+|  **日期** |                             **题目**                             |                             **笔记**                             |                             **#**                             |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2020/6/30 | [141. 环形链表 ](https://leetcode-cn.com/problems/linked-list-cycle/)<br>   [142. 环形链表 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Leetcode#141,#142_环形链表(剑指Offer#23) ](https://www.cnblogs.com/Howfars/p/13214117.html) | 1 |
 |   2020/7/1  | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |          [剑指Offer_#26_树的子结构](https://www.cnblogs.com/Howfars/p/13220486.html)                                                   |          2                                                  |
@@ -14,5 +14,6 @@
 | 2020/7/7 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/submissions/) | [剑指Offer_#33_二叉搜索树的后续遍历](https://www.cnblogs.com/Howfars/p/13262246.html) | 8 |
 | 2020/7/8 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [剑指Offer_#34_二叉树中和为某一值的路径 ](https://www.cnblogs.com/Howfars/p/13274958.html) | 9 |
 | 2020/7/9 | [剑指 Offer 35. 复杂链表的复制 ](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [剑指Offer_#35_复杂链表的复制 ](https://www.cnblogs.com/Howfars/p/13275735.html) | 10 |
+| 2020/7/10 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [剑指Offer_#36_二叉搜索树与双向链表](https://www.cnblogs.com/Howfars/p/13277973.html) | 11 |
 
 
