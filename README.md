@@ -22,8 +22,14 @@
 | [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::heart::heart::heart::heart: | 9/30 |
 | [Swetchine](https://github.com/Swetchine)                    | :star::heart::heart::heart::heart: | 9/30 |
 | [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star: | 10/30 |
+<<<<<<< HEAD
 | [pusidun](https://github.com/pusidun)             | :star::heart:     | 6/30 |
 | [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::heart::heart: |   7/30   |
 | [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :heart::heart: |   2/30   |
+=======
+| [pusidun](https://github.com/pusidun)             | :star::heart::heart:  | 7/30 |
+| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star: :heart: |   6/30   |
+| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :heart::heart::heart: |   3/30   |
+>>>>>>> 0f166eaa44626e6c38f52689cd5f026d9ff70cc8
 | 用户3                                                        |                         |      |
 
