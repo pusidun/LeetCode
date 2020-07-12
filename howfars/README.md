@@ -16,4 +16,5 @@
 | 2020/7/9 | [剑指 Offer 35. 复杂链表的复制 ](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [剑指Offer_#35_复杂链表的复制 ](https://www.cnblogs.com/Howfars/p/13275735.html) | 10 |
 | 2020/7/10 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [剑指Offer_#36_二叉搜索树与双向链表](https://www.cnblogs.com/Howfars/p/13277973.html) | 11 |
 | 2020/7/11 | [剑指 Offer 37. 序列化二叉树 ](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [剑指Offer_#37 序列化二叉树](https://www.cnblogs.com/Howfars/p/13283898.html#javae59fbae7a180efbc9ae580bce4bca0e98092e5928ce5bc95e794a8e4bca0e98092_10) | 12 |
+| 2020/7/12 | [剑指 Offer 38. 字符串的排列 ](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/submissions/) | [剑指Offer_#38_字符串的排列 ](https://www.cnblogs.com/Howfars/p/13289445.html) | 13 |
 
