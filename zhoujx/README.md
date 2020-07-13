@@ -14,4 +14,5 @@
 | 7    | 2020/7/9  | [面试题 17.13. 恢复空格](https://leetcode-cn.com/problems/re-space-lcci/) | [语雀：面试题 17.13. 恢复空格](https://www.yuque.com/zhoujx/study/cf7s09) |
 | 8    | 2020/7/10 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [语雀：最长回文子串](https://www.yuque.com/zhoujx/study/va6doo) |
 | 9    | 2020/7/12 | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | [语雀：174. 地下城游戏&剑指 Offer 64. 求1+2+…+n](https://www.yuque.com/zhoujx/study/zh2tde) |
+| 10   | 2020/7/13 | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [笔记：350. 两个数组的交集 II](https://www.yuque.com/zhoujx/study/whk6zw) |
 
