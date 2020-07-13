@@ -24,6 +24,6 @@
 | [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::heart::heart::heart::heart: |   9/30   |
 | [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star::heart::heart::heart: | 13/30 |
 | [pusidun](https://github.com/pusidun)             | :star::heart::heart:  | 7/30 |
-| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::heart: |   6/30   |
+| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::heart::heart: |   7/30   |
 | 用户3                                                        |                         |      |
 
