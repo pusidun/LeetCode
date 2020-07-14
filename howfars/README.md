@@ -18,4 +18,5 @@
 | 2020/7/11 | [剑指 Offer 37. 序列化二叉树 ](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [剑指Offer_#37 序列化二叉树](https://www.cnblogs.com/Howfars/p/13283898.html#javae59fbae7a180efbc9ae580bce4bca0e98092e5928ce5bc95e794a8e4bca0e98092_10) | 12 |
 | 2020/7/12 | [剑指 Offer 38. 字符串的排列 ](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/submissions/) | [剑指Offer_#38_字符串的排列 ](https://www.cnblogs.com/Howfars/p/13289445.html) | 13 |
 | 2020/7/13 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [剑指Offer_#39_数组中出现次数超过一半的数字 ](https://www.cnblogs.com/Howfars/p/13292530.html) | 14 |
+| 2020/7/14 | [剑指 Offer 40. 最小的k个数 ](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [剑指Offer_#40_最小的k个数](https://www.cnblogs.com/Howfars/p/13299555.html) | 15 |
 
