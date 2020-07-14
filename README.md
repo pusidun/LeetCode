@@ -22,7 +22,7 @@
 | [Swetchine](https://github.com/Swetchine)                    | :star::star: | 10/30 |
 | [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::star: |   10/30   |
 | [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star::star: | 15/30 |
-| [pusidun](https://github.com/pusidun)             | :star::heart::heart:  | 7/30 |
+| [pusidun](https://github.com/pusidun)             | :star::heart::heart::heart:  | 8/30 |
 | [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::heart::heart::heart: |   8/30   |
 | 用户3                                                        |                         |      |
 
