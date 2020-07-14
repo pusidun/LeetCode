@@ -15,5 +15,8 @@
 | 2020/7/8 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [剑指Offer_#34_二叉树中和为某一值的路径 ](https://www.cnblogs.com/Howfars/p/13274958.html) | 9 |
 | 2020/7/9 | [剑指 Offer 35. 复杂链表的复制 ](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [剑指Offer_#35_复杂链表的复制 ](https://www.cnblogs.com/Howfars/p/13275735.html) | 10 |
 | 2020/7/10 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [剑指Offer_#36_二叉搜索树与双向链表](https://www.cnblogs.com/Howfars/p/13277973.html) | 11 |
-
+| 2020/7/11 | [剑指 Offer 37. 序列化二叉树 ](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [剑指Offer_#37 序列化二叉树](https://www.cnblogs.com/Howfars/p/13283898.html#javae59fbae7a180efbc9ae580bce4bca0e98092e5928ce5bc95e794a8e4bca0e98092_10) | 12 |
+| 2020/7/12 | [剑指 Offer 38. 字符串的排列 ](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/submissions/) | [剑指Offer_#38_字符串的排列 ](https://www.cnblogs.com/Howfars/p/13289445.html) | 13 |
+| 2020/7/13 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [剑指Offer_#39_数组中出现次数超过一半的数字 ](https://www.cnblogs.com/Howfars/p/13292530.html) | 14 |
+| 2020/7/14 | [剑指 Offer 40. 最小的k个数 ](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [剑指Offer_#40_最小的k个数](https://www.cnblogs.com/Howfars/p/13299555.html) | 15 |
 

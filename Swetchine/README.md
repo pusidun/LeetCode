@@ -16,6 +16,6 @@
 |006| 2020/07/05 | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [[day006]32. 最长有效括号](https://www.cnblogs.com/Swetchine/p/13252762.html) |
 |007| 2020/07/06 | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | [[day007]63. 不同路径 II](https://www.cnblogs.com/Swetchine/p/12670647.html) |
 |008| 2020/07/07 | [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [[day008]26. 删除排序数组中的重复项](https://www.cnblogs.com/Swetchine/p/13260891.html) |
-|009| 2020/07/08 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [[day009]102. 二叉树的层序遍历](https://www.cnblogs.com/Swetchine/p/13266494.html) |
-
+|009| 2020/07/08 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)</br>[面试题 16.11. 跳水板](https://leetcode-cn.com/problems/diving-board-lcci/) | [[day009]102. 二叉树的层序遍历](https://www.cnblogs.com/Swetchine/p/13266494.html)</br> [[day010]338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)|
+|010| 2020/07/13 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [[day010][动态规划]338. 比特位计数](https://www.cnblogs.com/Swetchine/p/13296669.html) |
 </div>
