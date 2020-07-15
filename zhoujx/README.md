@@ -16,4 +16,5 @@
 | 9    | 2020/7/12 | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | [语雀：174. 地下城游戏&剑指 Offer 64. 求1+2+…+n](https://www.yuque.com/zhoujx/study/lc174) |
 | 10   | 2020/7/13 | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [笔记：350. 两个数组的交集 II](https://www.yuque.com/zhoujx/study/lc350) |
 | 11   | 2020/7/14 | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [笔记：120. 三角形最小路径和](https://www.yuque.com/zhoujx/study/lc120) |
+| 12   | 2020/7/15 | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [笔记：96. 不同的二叉搜索树](https://www.yuque.com/zhoujx/study/lc96) |
 
