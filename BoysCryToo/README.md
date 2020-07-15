@@ -12,4 +12,5 @@
 | 2020/7/12 | [174. 地下城游戏 - 力扣（LeetCode）](https://leetcode-cn.com/problems/dungeon-game/) | [174. 地下城游戏-笔记](https://www.cnblogs.com/BoysCryToo/p/13288031.html) |
 | 2020/7/13 | [350. 两个数组的交集 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [350. 两个数组的交集 II-笔记](https://www.cnblogs.com/BoysCryToo/p/13291976.html) |
 | 2020/7/14 | [120. 三角形最小路径和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/triangle/) | [120. 三角形最小路径和-笔记](https://www.cnblogs.com/BoysCryToo/p/13298585.html) |
+| 2020/7/15 | [96. 不同的二叉搜索树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [96. 不同的二叉搜索树-笔记](https://www.cnblogs.com/BoysCryToo/p/13305453.html) |
 

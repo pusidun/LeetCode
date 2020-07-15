@@ -19,4 +19,5 @@
 | 2020/7/12 | [剑指 Offer 38. 字符串的排列 ](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/submissions/) | [剑指Offer_#38_字符串的排列 ](https://www.cnblogs.com/Howfars/p/13289445.html) | 13 |
 | 2020/7/13 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [剑指Offer_#39_数组中出现次数超过一半的数字 ](https://www.cnblogs.com/Howfars/p/13292530.html) | 14 |
 | 2020/7/14 | [剑指 Offer 40. 最小的k个数 ](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [剑指Offer_#40_最小的k个数](https://www.cnblogs.com/Howfars/p/13299555.html) | 15 |
+| 2020/7/15 | [剑指 Offer 41. 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)<br>[剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [剑指Offer_#41_ 数据流中的中位数](https://www.cnblogs.com/Howfars/p/13304132.html)<br>[剑指Offer_#42_连续子数组的最大和](https://www.cnblogs.com/Howfars/p/13304721.html) | 16 |
 

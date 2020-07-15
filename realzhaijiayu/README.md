@@ -11,3 +11,5 @@
 | 2020.07.08 | [跳水板](https://leetcode-cn.com/problems/diving-board-lcci/) | https://www.cnblogs.com/realzhaijiayu/p/13269403.html |
 | 2020.07.10 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | https://www.cnblogs.com/realzhaijiayu/p/13282061.html |
 | 2020.07.13 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | https://www.cnblogs.com/realzhaijiayu/p/13294664.html |
+| 2020.07.14 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | https://www.cnblogs.com/realzhaijiayu/p/13302969.html |
+|            |                                                              |                                                       |
