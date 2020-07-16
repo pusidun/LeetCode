@@ -35,3 +35,6 @@
 
 ### 2020/07/15
 [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+
+### 2020/07/16
+[785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)
