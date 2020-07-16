@@ -32,3 +32,6 @@
 ### 2020/07/14
 [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)
+
+### 2020/07/15
+[96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
