@@ -13,3 +13,5 @@
 | 2020.07.13 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | https://www.cnblogs.com/realzhaijiayu/p/13294664.html |
 | 2020.07.14 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | https://www.cnblogs.com/realzhaijiayu/p/13302969.html |
 | 2020.07.15 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | https://www.cnblogs.com/realzhaijiayu/p/13308671.html |
+| 2020.07.16 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | https://www.cnblogs.com/realzhaijiayu/p/13324516.html |
+|            |                                                              |                                                       |
