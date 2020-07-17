@@ -18,4 +18,4 @@
 | 11   | 2020/7/14 | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [笔记：120. 三角形最小路径和](https://www.yuque.com/zhoujx/study/lc120) |
 | 12   | 2020/7/15 | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [笔记：96. 不同的二叉搜索树](https://www.yuque.com/zhoujx/study/lc96) |
 | 13   | 2020/7/16 | [785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | [笔记：785. 判断二分图](https://www.yuque.com/zhoujx/study/lc785) |
-
+| 14   | 2020/7/17 | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [笔记：35.搜索插入位置](https://www.yuque.com/zhoujx/study/lc35) |
