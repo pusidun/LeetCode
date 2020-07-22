@@ -18,11 +18,11 @@
 
 | 用户                                                         | 天数                    | 进度 |
 | ------------------------------------------------------------ | ----------------------- | ---- |
-| [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::star::heart::heart::heart::heart: | 14/30 |
+| [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::star::star::heart: | 16/30 |
 | [Swetchine](https://github.com/Swetchine)                    | :star::star::heart: | 11/30 |
-| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::star::heart::heart::heart: |   13/30   |
-| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star::star::heart::heart: | 17/30 |
-| [pusidun](https://github.com/pusidun)             | :star::star:  | 10/30 |
-| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::star: |   10/30   |
+| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::star::star::heart: |   16/30   |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star::star::star::heart: | 21/30 |
+| [pusidun](https://github.com/pusidun)             | :star::star::heart::heart:  | 12/30 |
+| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::star::heart::heart: |   12/30   |
 | 用户3                                                        |                         |      |
 
